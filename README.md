@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Nest.js**
 
-- 👨‍💻 All of my projects are available at [Quantum Pinnacle Matrix](www.QPMatrix.tech)
+- 👨‍💻 All of my projects are available at [QPMatrix](https://www.qpmatrix.tech)
 
 - 💬 Ask me about **React , React native**
 
-- 📫 How to reach me **info@QPMatrix.tech**
+- 📫 How to reach me **hasan@QPMatrix.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
